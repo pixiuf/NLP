@@ -45,6 +45,7 @@ class TwoLayerNet:
 print('hello')
 print('hello3')
 print('hot-fix')
+print('stash')
 
 
 
