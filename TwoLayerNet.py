@@ -42,6 +42,7 @@ class TwoLayerNet:
             dout = layer.backward(dout)
         return dout
 
+print('hello')
 
 
 
