@@ -43,6 +43,7 @@ class TwoLayerNet:
         return dout
 
 print('hello')
+print('hello3')
 
 
 
