@@ -46,6 +46,7 @@ print('hello')
 print('hello3')
 print('hot-fix')
 print('stash')
+print('master test')
 
 
 
