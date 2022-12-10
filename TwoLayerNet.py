@@ -48,8 +48,7 @@ print('hot-fix')
 print('stash')
 print('master test')
 print('hot-fix test')
-
-
+print('push test')
 
 
 
